@@ -1,7 +1,4 @@
 {
-  "name": "External Theme",
-  "css": "theme.css",
-  "images": "img",
   "customFontUrls": [
     {
       "orderingIndex": 0,
@@ -13,11 +10,11 @@
     }
   ],
   "themeConfig": {
-    "dashboardLogo": "NightlyPicon.png",
+    "dashboardLogo": "WhitePicon.png",
     "loginScreenBackgroundImage": "piLogin-01.png",
     "loginScreenLogo": "letsplaywithpi.png",
     "alwaysShowLogo": true,
-    "chartGridLineColor": "#767c86",
+    "chartGridLineColor": null,
     "chartLightBulbBorderDisplay": true,
     "turnOffTooltips": false,
     "pdfLogo": null,

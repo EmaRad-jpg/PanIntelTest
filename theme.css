@@ -1,13 +1,11 @@
 .pi-style__body {
-  background: #1f2837;
-  color: #a6aab1;
+  background: green;
+  color: #0c0f14;
   font-family: "Red Hat Text", sans-serif;
 }
 
 .pi-style__body textarea,
 .pi-style__body textarea.pi-input.with-bg {
-  background: #1f2837;
-  color: #a6aab1;
 }
 
 .pi-style__body textarea[disabled],
@@ -19,28 +17,24 @@
 .pi-style__body .pi-input option,
 .pi-style__body .inline-placeholder-input,
 .pi-style__body .filter-input__container {
-  background: #1f2837;
-  color: #a6aab1;
 }
 
 .pi-style__body .pi-input-label {
-  color: #a6aab1;
 }
 
 .pi-style__body input[disabled],
 .pi-style__body .pi-input[disabled],
 .pi-style__body .inline-placeholder-input[disabled],
 .pi-style__body .filter-input__container[disabled] {
-  color: #767c86;
 }
 
 a {
-  color: #a6aab1;
-  fill: #a6aab1;
+  color: #0c0f14;
+  fill: #81810C0F148D;
 }
 
 a:hover {
-  color: #e1e2e5;
+  color: #0c0f14;
 }
 
 a:visited {
@@ -48,18 +42,18 @@ a:visited {
 
 .pi-style__page-top-nav {
   background: #222c3c;
-  color: #e1e2e5;
+  color: #ffffff;
 }
 
 .pi-style__page-top-nav a {
-  color: #e1e2e5;
+  color: #ffffff;
 }
 
 .pi-style__page-top-nav a:hover {
 }
 
 .pi-style__page-top-nav .pi-style__nav-menu a {
-  color: #a6aab1;
+  color: #0c0f14;
 }
 
 .pi-style__page-top-nav .pi-style__nav-menu a:hover {
@@ -74,22 +68,20 @@ a:visited {
 }
 
 .pi-style__panel {
-  background: #222c3c;
+  background: #ffffff;
 }
 
 .pi-style__panel > .panel-heading {
   background: #222c3c;
-  color: #e1e2e5;
+  color: #ffffff;
 }
 
 .pi-style__panel .panel-footer {
-  background: #222c3c;
-  color: #e1e2e5;
 }
 
 .pi-style__drawer {
-  background: #222c3c;
-  color: #a6aab1;
+  background: #ffffff;
+  color: #8b8b8b;
 }
 
 .pi-style__drawer .category-object-area-inputs {
@@ -108,9 +100,9 @@ a:visited {
 }
 
 .pi-style__category-objects-top-panel {
-  background: #222c3c;
+  background: #ffffff;
   margin: 5px;
-  color: #a6aab1;
+  color: #0c0f14;
   box-shadow: none;
 }
 
@@ -165,8 +157,7 @@ a:visited {
 }
 
 .pi-style__btn-default {
-  background: #2d3645;
-  color: #a6aab1;
+  background: #ffffff;
 }
 
 .pi-style__btn-default[disabled] {
@@ -174,8 +165,6 @@ a:visited {
 
 .pi-style__btn-default:hover,
 .pi-style__btn-default:focus {
-  background: #313a49;
-  color: #a6aab1;
 }
 
 .pi-style__btn-default[disabled]:hover,
@@ -247,15 +236,14 @@ a:visited {
 }
 
 .pi-style__chart-panel {
-  background: #222c3c;
+  background: #ffffff;
   margin: 5px;
-  color: #a6aab1;
+  color: #0c0f14;
   box-shadow: none;
 }
 
 .pi-style__chart-panel .paper-button {
   box-shadow: none;
-  color: #a6aab1;
 }
 
 .pi-style__chart-panel:hover .paper-button {
@@ -268,7 +256,8 @@ a:visited {
 }
 
 .pi-style__chart-panel__header {
-  background: #2d3645;
+  background: #ffffff;
+  color: #0c0f14;
   font-weight: 600;
 }
 
@@ -276,7 +265,8 @@ a:visited {
 }
 
 .pi-style__chart-panel__chart-title {
-  background: #2d3645;
+  background: #ffffff;
+  color: #0c0f14;
   font-size: 14px;
   font-weight: 600;
   padding-top: 8px;
@@ -286,7 +276,6 @@ a:visited {
 }
 
 .pi-style__chart-panel__chart-menu {
-  background: #2d3645;
 }
 
 .pi-style__chart-fullscreen {
@@ -294,13 +283,13 @@ a:visited {
 
 .pi-style__chart__x-axis-title {
   font-family: "Red Hat Text", sans-serif;
-  color: #a6aab1;
+  color: #0c0f14;
 }
 
 .pi-style__chart__x-axis-value {
   font-weight: normal;
   font-family: "Red Hat Text", sans-serif;
-  color: #a6aab1;
+  color: #0c0f14;
 }
 
 .pi-style__chart__null-x-axis-value {
@@ -309,23 +298,23 @@ a:visited {
 
 .pi-style__chart__y-axis-title {
   font-family: "Red Hat Text", sans-serif;
-  color: #a6aab1;
+  color: #0c0f14;
 }
 
 .pi-style__chart__y-axis-value {
   font-weight: normal;
   font-family: "Red Hat Text", sans-serif;
-  color: #a6aab1;
+  color: #0c0f14;
 }
 
 .pi-style__chart__legend-title {
   font-family: "Red Hat Text", sans-serif;
-  color: #a6aab1;
+  color: #0c0f14;
 }
 
 .pi-style__chart__legend-value {
   font-family: "Red Hat Text", sans-serif;
-  color: #a6aab1;
+  color: #0c0f14;
 }
 
 .pi-style__chart__null-legend-value {
@@ -338,7 +327,7 @@ a:visited {
 
 .pi-style__chart__tooltip-text {
   font-family: "Red Hat Text", sans-serif;
-  color: #a6aab1;
+  color: #0c0f14;
 }
 
 .pi-style__chart__data-value {
@@ -370,17 +359,17 @@ a:visited {
 }
 
 .pi-style__table {
-  color: #a6aab1;
+  color: #0c0f14;
   margin: 20px;
 }
 
 .pi-style__table thead tr {
-  background: #202938;
+  background: #ffffff;
   padding: 11px 0px;
 }
 
 tr.pi-style__table__body-row {
-  background: #202938;
+  background: transparent;
   border: 1px solid transparent;
 }
 
@@ -388,7 +377,8 @@ tr.pi-style__table__body-row {
 }
 
 .pi-style__table .pi-style__table__body-row:hover {
-  background: #313a49;
+  background: #ffffff;
+  color: #ffffff;
 }
 
 .pi-style__table .pi-style__table__body-row:hover td {
@@ -397,7 +387,7 @@ tr.pi-style__table__body-row {
 
 th.pi-style__table-header-cell {
   background: transparent;
-  color: #a6aab1;
+  color: #0c0f14;
   font-size: 14px;
   font-weight: bold;
   vertical-align: middle;
@@ -437,20 +427,20 @@ td.pi-style__table-body-cell {
 }
 
 .pi-style__table-body-cell.pi-style__table-body-cell--is-total-row {
-  background-color: #202938;
+  background-color: #ffffff;
   font-weight: bold;
-  color: #a6aab1;
+  color: #0c0f14;
 }
 
 .pi-style__table-body-cell.pi-style__table-body-cell--is-total-col {
-  background-color: #202938;
+  background-color: #ffffff;
   font-weight: bold;
-  color: #a6aab1;
+  color: #0c0f14;
 }
 
 .pi-style__table-body-cell.pi-style__table-body-cell--is-in-selected-row {
-  background: #313a49;
-  color: #a6aab1;
+  background: #d7d7d7;
+  color: #0c0f14;
 }
 
 .pi-style__table-body-cell .pi-style__table-body-cell__null-value {
@@ -458,7 +448,7 @@ td.pi-style__table-body-cell {
 }
 
 .chart-panel.pi-style__card {
-  background: #222c3c;
+  background: #ffffff;
 }
 
 .chart-panel.pi-style__card .paper-button {
@@ -587,12 +577,11 @@ td.pi-style__table-body-cell {
 }
 
 .pi-style__config-panel {
-  background: #222c3c;
-  color: #a6aab1;
+  background: #ffffff;
 }
 
 .pi-style__config-panel__empty-space {
-  background: #1f2837;
+  background: #cacaca;
 }
 
 .pi-style__config-panel__empty-space .config-panel__empty-panel-instruction {
@@ -601,28 +590,26 @@ td.pi-style__table-body-cell {
 }
 
 .pi-style__config-panel__front-panel {
-  background: #222c3c;
+  background: #ffffff;
 }
 
 .pi-style__config-panel__read-only-panel {
-  background: #2d3645;
+  background: #f5f5f5;
 }
 
 .pi-style__config-panel__disabled-panel {
-  background: #222c3c;
+  background: #f7f7f7;
 }
 
 .pi-style__config-panel__tabs {
-  background: #1f2837;
 }
 
 .pi-style__config-panel__tabs__tab {
-  background: #1f2837;
 }
 
 .pi-style__config-panel__tabs__tab:hover {
 }
 
 .pi-style__config-panel__tabs__tab.is-active {
-  background: #222c3c;
+  background: #ffffff;
 }
