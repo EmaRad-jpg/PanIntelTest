@@ -1,4 +1,7 @@
 {
+  "name": "External Theme",
+  "css": "theme.css",
+  "images": "img",
   "customFontUrls": [
     {
       "orderingIndex": 0,
